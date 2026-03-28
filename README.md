@@ -1,59 +1,53 @@
-# Unit Converter
+Unit converter-
 
-Name - Aarjav Jain 
-REG.NO - 25BAI10104
+Aarjav Jain is the name.  
+REG.NO: 25BAI10104
 
-## 📌 Description
+  
+Description-
 
-This is a Python project that converts units like length, weight, temperature, and time. It is a very useful project to many people around the world.
+This is a Python project that changes units like length, weight, temperature, and time. It is a helpful tool for many people all over the world.   
 
-##  Features
+ Characteristics-
+ 
+Changing length
+ Change of weight
+Changing the temperature
+ Changing the time
+ 
+ An easy-to-use menu-driven interface
+You can choose to keep going or leave.
 
-* Length conversion
-* Weight conversion
-* Temperature conversion
-* Time conversion
-* Simple menu-driven interface
-* Option to continue or exit
+Technologies Used: Python
 
-##  Technologies Used
+How to Go-
+1. Get Python  
+2. Get all of the project's files  
+3. In the project folder, open the terminal.  
+4. Run:  
+python main.py 
 
-* Python
+ Project Structure
+ main.py
+ length.py
+ weight.py 
+ temperature.py
+ time_converter.py  
 
-##  How to Run
+ For example-
+Choose one: 1  
+Type in a value of 1000  
+The result is 1 km.  
 
-1. Install Python
-2. Download all project files
-3. Open terminal in project folder
-4. Run:
-   python main.py
+ Goal-
+This project helps people who are new to it understand and to make the conversion more easier 
 
-##  Project Structure
+ Functions- 
+ Loops  
+ Statements that depend on conditions  
+ Programming in modules 
 
-* main.py
-* length.py
-* weight.py
-* temperature.py
-* time_converter.py
-
-##  Example
-
-Enter your choice: 1
-Enter value: 1000
-Result: 1 km
-
-##  Purpose
-
-This project helps beginners understand:
-
-* Functions
-* Loops
-* Conditional statements
-* Modular programming (multiple files)
-
-##  Future Improvements
-
-* Add GUI
-* Add more units
-* Improve design
-
+Improvements in the Future-
+ Add a GUI  
+ Add more units  
+ Make the design better  
