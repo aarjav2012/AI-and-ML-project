@@ -56,10 +56,14 @@ This project is made using Python. It can be run in VS Code or any Python IDE.
 
 ## Example
 
- Length 
+ Length
+ 
  Weight
+ 
  Temperature
+ 
  Time
+ 
  Exit
 
 Enter your choice: 1
@@ -67,9 +71,13 @@ Enter your choice: 1
 Length Conversion:
 
  Meter to Kilometer
+ 
  Kilometer to Meter
+ 
  Meter to Centimeter
+ 
  Centimeter to Meter
+ 
 
 Enter choice: 1
 Enter value: 1000
