@@ -1,53 +1,79 @@
-Unit converter-
+UNIT CONVERTER PROJECT
+*Student Details
 
-Aarjav Jain is the name.  
-REG.NO: 25BAI10104
+  Name: Aarjav Jain
+  Registration Number: 25BAI10104
 
+*Description
+
+  This project is a  Unit Converter made using Python. It helps in converting basic units like length, weight, temperature, and time. The main aim of this project    is to make unit conversion easy for the people
   
-Description-
+  The program uses a menu system where the user selects what type of conversion they want and then user enters a value and gets the result
 
-This is a Python project that changes units like length, weight, temperature, and time. It is a helpful tool for many people all over the world.   
+*Features
+  Length conversion (meter, kilometer, centimeter)
+  Weight conversion (kilogram, gram)
+  Temperature conversion (Celsius, Fahrenheit)
+  Time conversion (seconds, minutes, hours, days)
+  Simple menu-based program
+  Option to continue or exit
+  Code divided into different files
+  Technologies Used
 
- Characteristics-
- 
-Changing length
- Change of weight
-Changing the temperature
- Changing the time
- 
- An easy-to-use menu-driven interface
-You can choose to keep going or leave.
+This project is made using Python. It can be run in VS Code or any Python IDE.
 
-Technologies Used: Python
+*How to Run the Project
+  Install Python
+  Download all project files
+  Open the project folder in terminal
+  Run the program using:
+  python main.py
 
-How to Go-
-1. Get Python  
-2. Get all of the project's files  
-3. In the project folder, open the terminal.  
-4. Run:  
-python main.py 
+*Project Structure
+  main.py – controls the main menu
+  length.py – for length conversion
+  weight.py – for weight conversion
+  temperature.py – for temperature conversion
+  time_converter.py – for time conversion
 
- Project Structure
- main.py
- length.py
- weight.py 
- temperature.py
- time_converter.py  
+*Example
+  Length
+  Weight
+  Temperature
+  Time
+  Exit
 
- For example-
-Choose one: 1  
-Type in a value of 1000  
-The result is 1 km.  
+  Enter your choice: 1
+  
+  Length Conversion:
+  
+  Meter to Kilometer
+  Kilometer to Meter
+  Meter to Centimeter
+  Centimeter to Meter
+  
+  Enter choice: 1
+  Enter value: 1000
+  
+  Result: 1.0 km
+  
+  Do you want to continue? (yes/no): no
 
- Goal-
-This project helps people who are new to it understand and to make the conversion more easier 
+*Objective
 
- Functions- 
- Loops  
- Statements that depend on conditions  
- Programming in modules 
+  The main aim of this project is to learn basic programming like taking input, using loops, and applying conditions and how to divide the files and import the       function
 
-Improvements in the Future-
- Add a GUI  
- Add more units  
- Make the design better  
+*Concepts Used
+  Functions
+  While loop
+  If-else conditions
+  Multiple files (modules)
+  Future Improvements
+  Add more types of units
+  Make a simple GUI
+  Improve the design
+  Save previous results 
+
+*Conclusion
+  This project helped the people to make their day to day life conversion easier and faster
+
